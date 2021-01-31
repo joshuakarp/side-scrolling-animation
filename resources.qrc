@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background/clouds.png</file>
+        <file>assets/background/forest.png</file>
+        <file>assets/background/ground.png</file>
+        <file>assets/background/mountains.png</file>
+        <file>assets/stickman/tiny/sprite1.png</file>
+        <file>assets/stickman/tiny/sprite2.png</file>
+        <file>assets/stickman/tiny/sprite3.png</file>
+        <file>assets/stickman/tiny/sprite4.png</file>
+        <file>assets/stickman/tiny/sprite5.png</file>
+        <file>assets/stickman/tiny/sprite6.png</file>
+        <file>assets/stickman/normal/sprite1.png</file>
+        <file>assets/stickman/normal/sprite2.png</file>
+        <file>assets/stickman/normal/sprite3.png</file>
+        <file>assets/stickman/normal/sprite4.png</file>
+        <file>assets/stickman/normal/sprite5.png</file>
+        <file>assets/stickman/normal/sprite6.png</file>
+        <file>assets/stickman/large/sprite1.png</file>
+        <file>assets/stickman/large/sprite2.png</file>
+        <file>assets/stickman/large/sprite3.png</file>
+        <file>assets/stickman/large/sprite4.png</file>
+        <file>assets/stickman/large/sprite5.png</file>
+        <file>assets/stickman/large/sprite6.png</file>
+        <file>assets/stickman/giant/sprite1.png</file>
+        <file>assets/stickman/giant/sprite2.png</file>
+        <file>assets/stickman/giant/sprite3.png</file>
+        <file>assets/stickman/giant/sprite4.png</file>
+        <file>assets/stickman/giant/sprite5.png</file>
+        <file>assets/stickman/giant/sprite6.png</file>
+        <file>assets/theValley.wav</file>
+        <file>defaultConfig.json</file>
+    </qresource>
+</RCC>

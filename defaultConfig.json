@@ -1,0 +1,33 @@
+{
+	"stage":1,
+	
+	"world" : {
+		"width":900,
+		"height":500
+	},
+	
+	"stickman" : {
+		"sourceFolder":"://assets/stickman/",
+		"sourceFilename":"sprite",
+		"sourceFiletype":".png",
+		"numberOfSprites":6,
+		"size":"normal",
+		"heights" : {
+			"tiny":27,
+			"normal":54,
+			"large":108,
+			"giant":216
+		},
+		"position":100,
+		"velocity":10,
+		"groundCoordinate":402
+	},
+	
+	"backgrounds" : [
+		{"source":"://assets/background/clouds.png", "width":960, "velocityScaling":0.1},
+		{"source":"://assets/background/mountains.png", "width":960, "velocityScaling":0.2},
+		{"source":"://assets/background/forest.png", "width":960, "velocityScaling":0.5},
+		{"source":"://assets/background/ground.png", "width":960, "velocityScaling":1.0}
+	]
+	
+}
