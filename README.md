@@ -8,7 +8,7 @@ A side-scrolling animation, created in Qt Creator 4.8.2 (Qt version 5.12.1) and 
 Config file
 -----------
 The config file is composed of 4 JSON objects:
-* **stage:** the number of the current stage of project (either 1, 2, or 3; dictates which concrete factory is created)
+* **stage:** the animation version number (i.e. Stage1Stickman vs. Stage2Stickman)
 * **world:** spatial dimensions for the dialog window (width and height, in pixels)
 * **stickman:** parameters and properties of the stickman object. Specifically, it is expected to contain the following key-value pairs:
   * sourceFolder: directory location of stickman size folders, using the reference from the `resources.qrc` file (default: `://assets/stickman/`)
